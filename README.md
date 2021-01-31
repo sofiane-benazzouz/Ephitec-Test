@@ -1,7 +1,7 @@
 # Ephitec-Test
 
-Les tests sont faites en récepectant toutes les instructions fournies dans le sujet .
-plusieurs images ulistratives sont fournies dans le projet montrant l'exécution des différents tests.
+Les tests sont faites en respectant toutes les instructions fournies dans le sujet .
+plusieurs images ulistratives sont fournies dans le projet montrant l'exécution des différents classes.
 vous trouvez également ci-dessus les différentes instructions de compilation et d'exécution mais faut prendre bien en compte la version JAVA utiliser.
 
 informations importantes:
@@ -21,14 +21,15 @@ package epithecExercices:
 
 package exceptions:
 -------------------------
-- Exemple1.java
+- Exemple.java
 
 
 compilation:
 ---------------------------------
 
-pour la partie compilation les classes sont déjà compilées et elle se trouve dans le répertoire "bin".
-si de besoin de recompiler faut se positionner dans le dossier 'src' et taper la commande suivante :
+pour la partie compilation les classes sont déjà compilées et elle se trouvent dans le répertoire "bin".
+si besoin de recompiler faut se positionner dans le dossier 'src' et taper la commande suivante :
+
 javac nomDePackageAtester\NomDeLaClasse.java
 
 ou
@@ -36,7 +37,7 @@ ou
 javac nomDePackageAtester\*.java 
 
 pour l'intégralité des classes mais il est préférable d'utiliser les classes déjà compiler 
-pour raison certaines classes des différents packages est liée notamment la classe "WeaponException" 
+pour raison que certaines classes des différents packages sont liée , notamment la classe "WeaponException" 
 et lier aux classes de package epithecExercices.
 
 pour le run:
