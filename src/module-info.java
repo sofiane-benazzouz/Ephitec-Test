@@ -1,4 +1,0 @@
-module epithecExercices {
-	requires junit;
-	
-}
