@@ -47,3 +47,8 @@ faut se potitionner dans le dossier bin et taper la commande suivante pour les c
 
 java nomDePackageAtester\NomDeLaClasse
 
+test:
+--------------------------------------
+
+les tests sont à tester sur Junit4
+
